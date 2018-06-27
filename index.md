@@ -1,37 +1,14 @@
 ## 欢迎光临大吉祥的页面
 
-You can use the [editor on GitHub](https://github.com/aljx6/aljx6.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+马蜂窝图文详情：
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+* 图片：宽750px
+* 标题：18px、20px
+* 正文：14px、16px
 
-### Markdown
+* 正文颜色：
+    * 黑 #474747
+    * 灰 #C1C1C1
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# 主题 1
-## 主题 2
-### 主题 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aljx6/aljx6.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* 警示颜色：
+    * 红 #EF342C
